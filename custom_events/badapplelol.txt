@@ -1,0 +1,8 @@
+This is explained in my own way
+
+value 1: put 'a' to enable the effect, 'b' to disable it
+
+value 2: here set the appearance or exit time
+example: 0.5 to make it fast
+2.5 to make it slow
+Script by Saltyboii#2461

@@ -1,0 +1,4 @@
+V-slice Zoom Camera Event:
+value1: zoom value
+value2: [duration (steps), ease, mode] Example: 32, linear, stage
+(If both values ​​are blank, it will reset to Psych Zoom)

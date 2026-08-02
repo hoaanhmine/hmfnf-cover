@@ -1,0 +1,6 @@
+flash w adjustedcolor BUT ts became black and White oh nyo im so scared aaaaaahh!!1!1
+
+v1: hue, brightness, saturation, contrast (ex: -10, 20, 50, 50)
+v2: w speed <3 lmfao (ex: 0.5)
+
+(To stop the b&w effect, just put flash to interrupt)

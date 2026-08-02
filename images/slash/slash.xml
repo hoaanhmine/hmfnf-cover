@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="slash.png">
+<SubTexture name="slash slash0000" x="1080" y="0" width="1009" height="983" frameX="-41" frameY="-51" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="slash slash0001" x="1271" y="1080" width="568" height="510" frameX="-46" frameY="-524" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="slash slash0002" x="791" y="1080" width="480" height="545" frameX="-153" frameY="-412" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="slash slash0003" x="0" y="1080" width="791" height="807" frameX="-189" frameY="-123" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="slash slash0004" x="0" y="0" width="1080" height="1080" frameX="0" frameY="0" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="slash slash0005" x="2089" y="479" width="348" height="350" frameX="-732" frameY="-11" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="slash slash0006" x="2089" y="0" width="495" height="479" frameX="-553" frameY="-53" frameWidth="1080" frameHeight="1080" />
+</TextureAtlas>

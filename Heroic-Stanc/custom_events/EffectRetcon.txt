@@ -1,0 +1,2 @@
+Value 1: on/ off effect
+Value 2: Speed Angle everything

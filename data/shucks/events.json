@@ -1,0 +1,455 @@
+{
+	"events": [
+		[
+			307.692307692272,
+			[
+				["PlayVideo", "300", "1"]
+			]
+		],
+		[
+			52000,
+			[
+				["ZoomCamera", "0.65, 4", "expoInOut"]
+			]
+		],
+		[
+			56923.0769230769,
+			[
+				["ZoomCamera", "0.75, 8", "backInOut"]
+			]
+		],
+		[
+			61846.1538461538,
+			[
+				["ZoomCamera", "0.5, 8", "smootherStepInOut"]
+			]
+		],
+		[
+			91384.6153846154,
+			[
+				["ZoomCamera", "0.55, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			93846.1538461538,
+			[
+				["ZoomCamera", "0.6, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			101076.923076923,
+			[
+				["ZoomCamera", "0.45, 12", "smootherStepInOut"]
+			]
+		],
+		[
+			106153.846153846,
+			[
+				["ZoomCamera", "0.5, 12", "smootherStepInOut"]
+			]
+		],
+		[
+			111076.923076923,
+			[
+				["ZoomCamera", "0.4, 12", "smootherStepInOut"]
+			]
+		],
+		[
+			116000,
+			[
+				["ZoomCamera", "0.45, 12", "smootherStepInOut"]
+			]
+		],
+		[
+			120923.076923077,
+			[
+				["ZoomCamera", "0.5, 12", "smootherStepInOut"]
+			]
+		],
+		[
+			121538.461538461,
+			[
+				["ZoomCamera", "0.5, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			122153.846153846,
+			[
+				["ZoomCamera", "0.6, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			122615.384615384,
+			[
+				["ZoomCamera", "0.65, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			123076.923076923,
+			[
+				["ZoomCamera", "0.7, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			123384.615384615,
+			[
+				["ZoomCamera", "0.45, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			124000,
+			[
+				["ZoomCamera", "0.5, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			124615.384615384,
+			[
+				["ZoomCamera", "0.55, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			125076.923076923,
+			[
+				["ZoomCamera", "0.6, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			125538.461538461,
+			[
+				["ZoomCamera", "0.65, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			125846.153846154,
+			[
+				["ZoomCamera", "0.7, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			126461.538461538,
+			[
+				["ZoomCamera", "0.65, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			127076.923076923,
+			[
+				["ZoomCamera", "0.7, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			127538.461538461,
+			[
+				["ZoomCamera", "0.45, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			128307.692307692,
+			[
+				["ZoomCamera", "0.5, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			129538.461538461,
+			[
+				["ZoomCamera", "0.6, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			130769.23076923,
+			[
+				["ZoomCamera", "0.55, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			131384.615384615,
+			[
+				["ZoomCamera", "0.6, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			132000,
+			[
+				["ZoomCamera", "0.65, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			132461.538461538,
+			[
+				["ZoomCamera", "0.7, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			132923.076923077,
+			[
+				["ZoomCamera", "0.45, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			133230.769230769,
+			[
+				["ZoomCamera", "0.5, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			133846.153846154,
+			[
+				["ZoomCamera", "0.55, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			134461.538461538,
+			[
+				["ZoomCamera", "0.6, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			134923.076923077,
+			[
+				["ZoomCamera", "0.65, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			135384.615384615,
+			[
+				["ZoomCamera", "0.7, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			135692.307692307,
+			[
+				["ZoomCamera", "0.45, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			136307.692307692,
+			[
+				["ZoomCamera", "0.5, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			136923.076923077,
+			[
+				["ZoomCamera", "0.55, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			137384.615384615,
+			[
+				["ZoomCamera", "0.6, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			137846.153846154,
+			[
+				["ZoomCamera", "0.65, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			138153.846153846,
+			[
+				["ZoomCamera", "0.7, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			138769.23076923,
+			[
+				["ZoomCamera", "0.75, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			139384.615384615,
+			[
+				["ZoomCamera", "0.55, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			139846.153846154,
+			[
+				["ZoomCamera", "0.5, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			140307.692307692,
+			[
+				["ZoomCamera", "0.4, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			140615.384615384,
+			[
+				["ZoomCamera", "0.5, 4", "smootherStepInOut"]
+			]
+		],
+		[
+			160307.692307692,
+			[
+				["ZoomCamera", "0.45, 16", "smootherStepInOut"]
+			]
+		],
+		[
+			170153.846153846,
+			[
+				["ZoomCamera", "0.5, 16", "smootherStepInOut"]
+			]
+		],
+		[
+			175076.923076923,
+			[
+				["ZoomCamera", "0.6, 16", "smootherStepInOut"]
+			]
+		],
+		[
+			180000,
+			[
+				["ZoomCamera", "0.65, 16", "smootherStepInOut"]
+			]
+		],
+		[
+			184923.076923077,
+			[
+				["ZoomCamera", "0.7, 16", "smootherStepInOut"]
+			]
+		],
+		[
+			186153.846153846,
+			[
+				["ZoomCamera", "0.6, 16", "smootherStepInOut"]
+			]
+		],
+		[
+			189846.153846154,
+			[
+				["ZoomCamera", "0.55, 16", "smootherStepInOut"]
+			]
+		],
+		[
+			199692.307692307,
+			[
+				["ZoomCamera", "0.6, 16", "smootherStepInOut"]
+			]
+		],
+		[
+			204615.384615384,
+			[
+				["ZoomCamera", "0.7, 16", "smootherStepInOut"]
+			]
+		],
+		[
+			207076.923076923,
+			[
+				["ZoomCamera", "0.75, 16", "smootherStepInOut"]
+			]
+		],
+		[
+			209538.461538461,
+			[
+				["ZoomCamera", "0.45, 16", "smootherStepInOut"]
+			]
+		],
+		[
+			213230.769230769,
+			[
+				["PlayAnimation", "dad", "huh-idle"]
+			]
+		],
+		[
+			221538.461538461,
+			[
+				["ZoomCamera", "0.5, 16", "smootherStepInOut"]
+			]
+		],
+		[
+			229230.769230769,
+			[
+				["ZoomCamera", "0.55, 8", "smootherStepInOut"]
+			]
+		],
+		[
+			230461.538461538,
+			[
+				["ZoomCamera", "0.5, 8", "smootherStepInOut"]
+			]
+		],
+		[
+			231692.307692307,
+			[
+				["ZoomCamera", "8", "smootherStepInOut"]
+			]
+		],
+		[
+			251384.615384615,
+			[
+				["ChangeCharacter", "detg-blood", "dad"]
+			]
+		],
+		[
+			251384.615384615,
+			[
+				["ChangeCharacter", "marvin-bloodied", "bf"]
+			]
+		],
+		[
+			251384.615384615,
+			[
+				["ZoomCamera", "0.45, 12", "smootherStepInOut"]
+			]
+		],
+		[
+			256307.692307692,
+			[
+				["ZoomCamera", "0.5, 12", "smootherStepInOut"]
+			]
+		],
+		[
+			261230.769230769,
+			[
+				["ZoomCamera", "0.6, 12", "smootherStepInOut"]
+			]
+		],
+		[
+			266153.846153846,
+			[
+				["ZoomCamera", "0.45, 12", "smootherStepInOut"]
+			]
+		],
+		[
+			271076.923076923,
+			[
+				["ZoomCamera", "0.55, 12", "smootherStepInOut"]
+			]
+		],
+		[
+			273846.153846154,
+			[
+				["ZoomCamera", "0.65, 12", "smootherStepInOut"]
+			]
+		],
+		[
+			276000,
+			[
+				["ZoomCamera", "0.7, 12", "smootherStepInOut"]
+			]
+		],
+		[
+			276000,
+			[
+				["Cutscene Thingy", "300", "1"]
+			]
+		],
+		[
+			341230.769230769,
+			[
+				["ChangeCharacter", "marvin shucks run", "bf"]
+			]
+		],
+		[
+			341230.769230769,
+			[
+				["ChangeCharacter", "detgrunbody", "dad"]
+			]
+		]
+	],
+	"format": "psych_v1_convert"
+}

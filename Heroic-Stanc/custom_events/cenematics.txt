@@ -1,0 +1,2 @@
+Value 1: 0 is min and 360 is max( height cinematic )
+Value 2: Time to do

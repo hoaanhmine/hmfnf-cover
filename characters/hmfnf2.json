@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [-10, -190],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "hmfnf up"
+		},
+		{
+			"offsets": [0, -190],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "hmfnf down"
+		},
+		{
+			"offsets": [0, -330],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "hmfnf idle"
+		},
+		{
+			"offsets": [-30, -190],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "hmfnf left"
+		},
+		{
+			"offsets": [0, -190],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "hmfnf right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/hmfnf2",
+	"position": [0, 0],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [161, 100, 161],
+	"camera_position": [-130, 280],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

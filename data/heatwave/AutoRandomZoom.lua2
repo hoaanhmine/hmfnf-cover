@@ -1,0 +1,43 @@
+-- Cấu hình
+local startBeat = 0
+local endBeat = 9999
+local easeList = {'sineInOut', 'quadInOut', 'cubeOut', 'backOut', 'circOut'}
+
+-- Thời gian Zoom (Mặc định là 4 beat = 1 section)
+local zoomDuration = 4 
+
+function onSectionHit()
+    -- Kiểm tra thời gian hiệu ứng
+    if curBeat >= startBeat and curBeat <= endBeat then
+        
+        -- [[ BƯỚC 1: TÍNH TOÁN SỐ RANDOM ]]
+        local minZoom = 0.3
+        local maxZoom = 0.6
+        local randomZoom = minZoom + (math.random() * (maxZoom - minZoom))
+        
+        -- Làm tròn 2 chữ số (VD: 0.45)
+        randomZoom = math.floor(randomZoom * 100) / 100 
+
+        -- Chọn kiểu Ease ngẫu nhiên
+        local randomEase = easeList[math.random(1, #easeList)]
+        
+        -- [[ BƯỚC 2: TẠO CHUỖI VALUE 1 ĐÚNG FORMAT ]]
+        -- Format bạn yêu cầu: "ZoomAmount, Duration"
+        -- Ví dụ kết quả: "0.45,4"
+        
+        local eventValue1 = tostring(randomZoom) .. "," .. tostring(zoomDuration)
+
+
+        -- [[ BƯỚC 3: KÍCH HOẠT EVENT ]]
+        if not mustHitSection then
+            -- === LƯỢT DAD ===
+            triggerEvent('ZoomCamera', eventValue1, randomEase)
+        else
+            -- === LƯỢT BF ===
+            triggerEvent('ZoomCamera', eventValue1, randomEase)
+        end
+        
+        -- (Debug) In ra để kiểm tra
+        -- debugPrint('Value 1 gui di: ' .. eventValue1)
+    end
+end

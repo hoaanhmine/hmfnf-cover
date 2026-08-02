@@ -1,0 +1,4 @@
+flash w adjustedcolor
+
+v1: hue, brightness, saturation, contrast (ex: -10, 20, 50, 50)
+v2: w speed <3 lmfao (ex: 0.5)

@@ -1,0 +1,16 @@
+{
+	"songs": [
+		[
+			"genocide",
+			"tabi-crazy",
+			[
+				46,46,45
+			]
+		]
+	],
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

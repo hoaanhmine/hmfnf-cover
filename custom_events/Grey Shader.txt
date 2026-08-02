@@ -1,0 +1,4 @@
+Value 1 is amount 
+(0 is grey, 1 is normal)
+
+Value 2 is time

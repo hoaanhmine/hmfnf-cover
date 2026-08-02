@@ -1,0 +1,4 @@
+Value 1 icon to change(img PNG 150x150)
+Value 1 is "none" to back first icon
+
+Value 2 From hex color to change scoreTxt color

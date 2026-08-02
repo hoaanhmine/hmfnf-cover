@@ -1,0 +1,5 @@
+V-Slice Set Camera Bop Event:
+value1: zoom mult (defult: 1)
+value2: zoom rate (defult: 4)
+
+(If both values ​​are blank, it will reset to Default Camera Bop)

@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				220
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "hoacamkiem idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				250
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "hoacamkiem up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				260
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "hoacamkiem down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				241
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "hoacamkiem left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				250
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "hoacamkiem right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				250
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "parry1",
+			"loop": false,
+			"name": "hoacamkiem pary1"
+		},
+		{
+			"offsets": [
+				40,
+				250
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "parry2",
+			"loop": false,
+			"name": "hoacamkiem pary2"
+		},
+		{
+			"offsets": [
+				50,
+				260
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "hoacamkiem attack"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/hoacamkiem",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": true
+}
