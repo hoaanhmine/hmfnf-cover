@@ -1,0 +1,123 @@
+{
+    "animations": [
+        {
+            "offsets": [
+                20,
+                487
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "S\u00edmbolo 36"
+        },
+        {
+            "offsets": [
+                -160,
+                581
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "S\u00edmbolo 35"
+        },
+        {
+            "offsets": [
+                -293,
+                544
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "BLACK RIGHT"
+        },
+        {
+            "offsets": [
+                98,
+                651
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "S\u00edmbolo 31"
+        },
+        {
+            "offsets": [
+                -685,
+                373
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "fall",
+            "indices": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28
+            ],
+            "name": "black anim"
+        },
+        {
+            "offsets": [
+                12,
+                602
+            ],
+            "flipY": false,
+            "loop": true,
+            "fps": 24,
+            "anim": "idle",
+            "flipX": false,
+            "indices": [],
+            "name": "S\u00edmbolo 30"
+        }
+    ],
+    "vocals_file": "",
+    "no_antialiasing": false,
+    "image": "characters/blackdk",
+    "position": [
+        -280,
+        630
+    ],
+    "healthicon": "black",
+    "flip_x": false,
+    "healthbar_colors": [
+        58,
+        27,
+        79
+    ],
+    "camera_position": [
+        670,
+        -120
+    ],
+    "sing_duration": 6.1,
+    "scale": 1.5,
+    "_editor_isPlayer": false
+}

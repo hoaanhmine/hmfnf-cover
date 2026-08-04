@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hoatucgian.png">
+<SubTexture name="hoatucgian idle0000" x="0" y="0" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian idle0001" x="640" y="0" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian idle0002" x="1280" y="0" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian idle0003" x="1920" y="0" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian idle0004" x="0" y="1136" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian idle0005" x="640" y="1136" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian up0000" x="1280" y="1136" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian up0001" x="1920" y="1136" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian up0002" x="2560" y="0" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian up0003" x="2560" y="1136" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian up0004" x="3200" y="0" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian up0005" x="3200" y="1136" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian right0000" x="0" y="2272" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian right0001" x="640" y="2272" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian right0002" x="1280" y="2272" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian right0003" x="1920" y="2272" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian right0004" x="2560" y="2272" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian right0005" x="3200" y="2272" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian left0000" x="3840" y="0" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian left0001" x="3840" y="1136" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian left0002" x="3840" y="2272" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian left0003" x="4480" y="0" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian left0004" x="4480" y="1136" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian left0005" x="4480" y="2272" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian idle0006" x="0" y="3408" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian idle0007" x="640" y="3408" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian idle0008" x="1280" y="3408" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian idle0009" x="1920" y="3408" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian idle0010" x="2560" y="3408" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian idle0011" x="3200" y="3408" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian down0000" x="3840" y="3408" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian down0001" x="4480" y="3408" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian down0002" x="5120" y="0" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian down0003" x="5120" y="1136" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian down0004" x="5120" y="2272" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+<SubTexture name="hoatucgian down0005" x="5120" y="3408" width="640" height="1136" frameX="0" frameY="0" frameWidth="640" frameHeight="1136" />
+</TextureAtlas>

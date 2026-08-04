@@ -48,7 +48,7 @@
 	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [161, 161, 161],
-	"camera_position": [-300, -480],
+	"camera_position": [-300, -280],
 	"sing_duration": 4,
 	"scale": 0.6,
 	"_editor_isPlayer": true

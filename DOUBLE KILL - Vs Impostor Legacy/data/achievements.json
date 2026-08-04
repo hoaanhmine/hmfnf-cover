@@ -1,0 +1,170 @@
+[
+  {
+    "save": "week1",
+    "name": "Problem Solved",
+    "description": "Beat Week 1.",
+    "hidden": false
+  },
+  {
+    "save": "week2",
+    "name": "Mira Maniac",
+    "description": "Beat Week 2.",
+    "hidden": false
+  },
+  {
+    "save": "week3",
+    "name": "Airship Infiltrator",
+    "description": "Beat Week 3.",
+    "hidden": false
+  },
+  {
+    "save": "week4",
+    "name": "The End..?",
+    "description": "Beat Defeat.",
+    "hidden": false
+  },
+  {
+    "save": "week5",
+    "name": "Boiled Alive",
+    "description": "Beat Magmatic Monstrosity",
+    "hidden": false
+  },
+  {
+    "save": "week6",
+    "name": "Insane",
+    "description": "Beat Deadly Delusion.",
+    "hidden": false
+  },
+  {
+    "save": "week7",
+    "name": "Mistrustful",
+    "description": "Beat Human Heartbeat.",
+    "hidden": false
+  },
+  {
+    "save": "finale",
+    "name": "The End",
+    "description": "Complete The Main Story.",
+    "hidden": false
+  },
+  {
+    "save": "week8",
+    "name": "Fuck It We Ball",
+    "description": "Beat Jorjawsee's Jams.",
+    "hidden": false
+  },
+  {
+    "save": "week9",
+    "name": "The Greatest Plan",
+    "description": "Beat Battling The Boyfriend.",
+    "hidden": false
+  },
+  {
+    "save": "week10",
+    "name": "Awww...",
+    "description": "Beat Rosy Rival.",
+    "hidden": false
+  },
+  {
+    "save": "week11",
+    "name": "Ring Racer",
+    "description": "Beat LIME GREEN JADSPOSTOR.",
+    "hidden": false
+  },
+  {
+    "save": "mtd",
+    "name": "Quadruple Quarrel",
+    "description": "Beat Monotone Attack as each character once.",
+    "hidden": false
+  },
+  {
+    "save": "oht",
+    "name": "Oh Hi There",
+    "description": "Find white's hiding place.",
+    "hidden": false
+  },
+  {
+    "save": "dt",
+    "name": "Double Trouble",
+    "description": "Use a skin in Identity Crisis.",
+    "hidden": false
+  },
+  {
+    "save": "ltb",
+    "name": "Let's be friends!",
+    "description": "Fight Grey in Pretender as Playable pink.",
+    "hidden": false
+  },
+  {
+    "save": "Revenge",
+    "name": "Revenge",
+    "description": "Play Oversight as Dead Yellow.",
+    "hidden": false
+  },
+  {
+    "save": "it",
+    "name": "Impostor Trouble",
+    "description": "Complete Double Trouble.",
+    "hidden": false
+  },
+  {
+    "save": "loser",
+    "name": "You suck!",
+    "description": "Get a 0% Accuracy in Victory.",
+    "hidden": false
+  },
+  {
+    "save": "tm",
+    "name": "Tuesday Morning",
+    "description": "Play Tomongus Tuesday on a Tuesday.",
+    "hidden": false
+  },
+  {
+    "save": "rh",
+    "name": "Red Handed",
+    "description": "Play as Red. against Red. with a Red Pet.",
+    "hidden": false
+  },
+  {
+    "save": "no_miss_finale",
+    "name": "Defeated",
+    "description": "Beat Finale without missing a single note.",
+    "hidden": false
+  },
+  {
+    "save": "im_hungry",
+    "name": "I'm Hungry",
+    "description": "Bring the Mini Crewmate to the Chef's kitchen.",
+    "hidden": false
+  },
+  {
+    "save": "five_s_ranks",
+    "name": "High Scorer",
+    "description": "Earn a S rank or higher on 5 different songs.",
+    "hidden": false
+  },
+  {
+    "save": "first_p",
+    "name": "Perfectionist",
+    "description": "Earn a P rank.",
+    "hidden": false
+  },
+  {
+    "save": "cosmi_collector",
+    "name": "Cosmi-Collector",
+    "description": "Reach 100% completion on the Vs Impostor Cosmicube.",
+    "hidden": false
+  },
+  {
+    "save": "completionist",
+    "name": "The True Finale",
+    "description": "Beat every song.",
+    "hidden": false
+  },
+  {
+    "save": "the_hundred",
+    "name": "100%",
+    "description": "Earn every award. unlock every skin and pet. and Beat every song.",
+    "hidden": false
+  }
+]

@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Double Kill",
+			"double-kill",
+			[
+				58,
+				27,
+				79
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "double-kill",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Airship",
+	"weekName": "Double Kill By Notxmas",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

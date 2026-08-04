@@ -4,7 +4,7 @@ function onCreate()
     -- makeLuaText(tag, text, width, x, y)
     -- Đặt width là 0 để tự động kích thước theo nội dung, X là 0 để dễ căn giữa sau đó.
     makeLuaText('skillText', '', 0, 0, 300) 
-    setTextSize('skillText', 50)             -- Kích thước chữ
+    setTextSize('skillText', 30)             -- Kích thước chữ
     setTextColor('skillText', 'FFFFFF')      -- Màu trắng (FFFFFF)
     setTextBorder('skillText', 3, '000000')   -- Viền đen cho rõ (size, color)
     setTextAlignment('skillText', 'center')  -- Căn giữa nội dung text
