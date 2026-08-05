@@ -42,7 +42,13 @@ function onEvent(n,v1,v2)
         setProperty('godraysShader.x',v1)
         doTweenX('godraysShaderDown','godraysShader',0,v2,'linear')
     end
+
+     -- Nếu game đọc được event "Add Camera Zoom"
+    if name == "Add Camera Zoom" then
+        triggerEvent("Flash Rays", "1", "1")
+    end
 end
+
 
 function math.bound(value,min,max)
     return math.max(min,math.min(max,value))
