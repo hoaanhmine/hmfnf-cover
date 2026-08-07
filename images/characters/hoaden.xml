@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hoaden.png">
+<SubTexture name="hoaden idle0000" x="0" y="0" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden idle0001" x="1136" y="0" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden idle0002" x="0" y="640" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden idle0003" x="1136" y="640" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden idle0004" x="0" y="1280" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden idle0005" x="1136" y="1280" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden left0000" x="2272" y="0" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden left0001" x="2272" y="640" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden left0002" x="2272" y="1280" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden left0003" x="0" y="1920" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden left0004" x="1136" y="1920" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden left0005" x="2272" y="1920" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden left0006" x="0" y="2560" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden left0007" x="1136" y="2560" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden left0008" x="2272" y="2560" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden right0000" x="3408" y="0" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden right0001" x="3408" y="640" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden right0002" x="3408" y="1280" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden right0003" x="3408" y="1920" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden right0004" x="3408" y="2560" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden right0005" x="0" y="3200" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden right0006" x="1136" y="3200" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden up0000" x="2272" y="3200" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden up0001" x="3408" y="3200" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden up0002" x="0" y="3840" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden up0003" x="1136" y="3840" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden up0004" x="2272" y="3840" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden up0005" x="3408" y="3840" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden up0006" x="4544" y="0" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden up0007" x="4544" y="640" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden down0000" x="4544" y="1280" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden down0001" x="4544" y="1920" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden down0002" x="4544" y="2560" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden down0003" x="4544" y="3200" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden down0004" x="4544" y="3840" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden down0005" x="0" y="4480" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden down0006" x="1136" y="4480" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+<SubTexture name="hoaden down0007" x="2272" y="4480" width="1136" height="640" frameX="0" frameY="0" frameWidth="1136" frameHeight="640" />
+</TextureAtlas>
